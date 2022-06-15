@@ -1,4 +1,4 @@
-# Stingray
+# Stingray GitHub
 
 Welcome to Stingray's profile on Github.
 
