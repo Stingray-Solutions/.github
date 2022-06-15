@@ -8,6 +8,7 @@ Welcome to Stingray's profile on Github.
 ## External repositories
 Side projects under other Github profiles
 * [VKode](https://github.com/vitkozel/VKode)
+* [Guam IDE](https://github.com/vitkozel/Guam-IDE)
 
 ## Carunit-era projetcts
 
